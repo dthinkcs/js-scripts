@@ -1,3 +1,3 @@
 # js-scripts
-NOdeJS -> jiromt 
+NodeJS -> jiromt -> jirojs
 must
