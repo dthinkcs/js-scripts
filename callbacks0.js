@@ -1,3 +1,3 @@
 function multiplyByTwo(num) {
-  return num * 2; 
+  return 2 * num; 
 }
