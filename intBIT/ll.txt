@@ -1,1 +1,19 @@
-
+17,Remove Duplicates from Sorted List
+27,Remove Nth Node from List End
+28,Kth Node From Middle
+29,Merge Two Sorted Lists
+31,Sort Binary Linked List
+33,Swap List Nodes in pairs
+33,Rotate List
+39,List Cycle
+41,Even Reverse
+43,Add Two Numbers as Lists
+47,Palindrome List
+48,Reverse Alternate K Nodes
+49,Partition List
+49,Insertion Sort List
+57,Remove Duplicates from Sorted List II
+57,Reverse Link List II
+57,Reorder List
+59,Sort List
+60,K reverse linked list
